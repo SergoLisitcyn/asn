@@ -1,0 +1,121 @@
+.vacancy__information li {
+    position: relative;
+    padding-left: 30px;
+    margin-top: 3px;
+    line-height: 29px;
+}
+
+.vacancy__information li::before {
+    background: url(../img/item.svg) no-repeat 50% 50%;
+    width: 9px;
+    height: 15px;
+    content: '';
+    position: absolute;
+    top: 8px;
+    left: 0;
+}
+
+.vacancy__information ul {
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.vacancy__information ul li p {
+    margin: 0 !important;
+}
+
+
+.decisions li {
+    position: relative;
+    padding-left: 30px;
+    margin-top: 3px;
+    line-height: 29px;
+}
+
+.decisions li::before {
+    background: url(../img/item.svg) no-repeat 50% 50%;
+    width: 9px;
+    height: 15px;
+    content: '';
+    position: absolute;
+    top: 8px;
+    left: 0;
+}
+
+.decisions ul {
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.decisions ul li p {
+    margin: 0 !important;
+}
+
+.decisions p {
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 29px !important;
+}
+
+.alert-success {
+    color: #3c763d !important;
+    background-color: #dff0d8 !important;
+    border-color: #d6e9c6 !important;
+}
+.alert-dismissable, .alert-dismissible {
+    padding-right: 35px !important;
+}
+.alert {
+    padding: 15px !important;
+    margin-bottom: 20px !important;
+    border: 1px solid transparent !important;
+    border-radius: 4px !important;
+    font-size: 20px;
+    text-align: center;
+}
+
+.alert-dismissible .close {
+    position: relative;
+    top: -2px;
+    right: -8px;
+    color: inherit;
+}
+button.close {
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+.close {
+    float: right;
+    font-size: 21px;
+    font-weight: bold;
+    line-height: 1;
+    color: #000;
+    text-shadow: 0 1px 0 #fff;
+    filter: alpha(opacity=20);
+    opacity: 0.2;
+}
+
+.accordion-menu__dropdownlink-title::after {
+    right: -20px !important;
+}
+
+@media (max-width: 500px){
+    .vacancy__sidebar-map {
+        margin: 0 -20px !important;
+        margin-top: 20px !important;
+    }
+}
+
+.item__text {
+    font-size: 28px !important;
+    font-weight: 500 !important;
+}
+
+.header__top{
+    align-items: center !important;
+}
