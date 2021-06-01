@@ -144,9 +144,9 @@ $this->title = 'ASN Agency';
             <h2 class="vacancies__title title title--white">Реализованные Кейсы</h2>
             <ul class="vacancies__list">
                 <li class="vacancies__item">
-                    <a href="https://ediweb.com/ru-ru" class="vacancies__link">
+                    <a href="https://www.eurotransit.ru/" class="vacancies__link">
                         <h3 class="vacancies__link-title">
-                            Ediweb.com
+                            Eurotransit.ru
                         </h3>
                         <span class="vacancies__info">
 									<span class="vacancies__info-text">3 этапа</span>
@@ -159,9 +159,9 @@ $this->title = 'ASN Agency';
                     </a>
                 </li>
                 <li class="vacancies__item">
-                    <a href="http://tramis.ru/" class="vacancies__link">
+                    <a href="https://opt-fp.ru/ " class="vacancies__link">
                         <h3 class="vacancies__link-title">
-                                Tramis.ru
+                            Opt-fp.ru
                         </h3>
                         <span class="vacancies__info">
 									<span class="vacancies__info-text">дизайн логотипа</span>
@@ -175,9 +175,9 @@ $this->title = 'ASN Agency';
                     </a>
                 </li>
                 <li class="vacancies__item">
-                    <a href="https://www.hermitagemuseum.org/" class="vacancies__link">
+                    <a href="https://piter-trust.ru/" class="vacancies__link">
                         <h3 class="vacancies__link-title">
-                                Hermitagemuseum.org
+                            Piter-trust.ru
                         </h3>
                         <span class="vacancies__info">
 									<span class="vacancies__info-text">гос.заказ</span>
@@ -191,11 +191,6 @@ $this->title = 'ASN Agency';
                     </a>
                 </li>
             </ul>
-            <div class="vacancies__message">
-                <p class="vacancies__message-text">Если вы хотите такой же пиздатый сайт, как у ребят выше - просто напишите нам. <a class="vacancies__message-email" href="mailto:nikolay@asnagency.ru">info@asnagency.ru</a> или заполнить форму обратной связи</p>
-
-                <p class="vacancies__message-text">Ваши клиенты охуеют и вы в считаные месяцы станете миллиардером. Бля будем.</p>
-            </div>
         </div>
     </div>
 </section>
