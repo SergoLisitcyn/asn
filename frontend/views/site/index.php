@@ -149,11 +149,11 @@ $this->title = 'ASN Agency';
                             Eurotransit.ru
                         </h3>
                         <span class="vacancies__info">
-									<span class="vacancies__info-text">3 этапа</span>
+									<span class="vacancies__info-text">Сайт под ключ</span>
 									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">4 месяца</span>
-									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">Москва</span>
+									<span class="vacancies__info-text">реализация 2 месяца</span>
+<!--									<span class="vacancies__info-point">•</span>-->
+<!--									<span class="vacancies__info-text">Москва</span>-->
 
 								</span>
                     </a>
@@ -164,13 +164,13 @@ $this->title = 'ASN Agency';
                             Opt-fp.ru
                         </h3>
                         <span class="vacancies__info">
-									<span class="vacancies__info-text">дизайн логотипа</span>
+									<span class="vacancies__info-text">Сайт по макету клиента/span>
 									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">разработка видео</span>
-									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">сайт под ключ</span>
-									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">5 месяцев</span>
+									<span class="vacancies__info-text">реализация 4 месяца</span>
+<!--									<span class="vacancies__info-point">•</span>-->
+<!--									<span class="vacancies__info-text">сайт под ключ</span>-->
+<!--									<span class="vacancies__info-point">•</span>-->
+<!--									<span class="vacancies__info-text">5 месяцев</span>-->
 								</span>
                     </a>
                 </li>
@@ -180,13 +180,12 @@ $this->title = 'ASN Agency';
                             Piter-trust.ru
                         </h3>
                         <span class="vacancies__info">
-									<span class="vacancies__info-text">гос.заказ</span>
+									<span class="vacancies__info-text">Реализация  3 месяца</span>
+									<span class="vacancies__info-point">•</span>
+									<span class="vacancies__info-text">дизайн под ключ</span>
 									<span class="vacancies__info-point">•</span>
 									<span class="vacancies__info-text">полносервисный SLA</span>
-									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">Санкт-Петербург</span>
-									<span class="vacancies__info-point">•</span>
-									<span class="vacancies__info-text">3 месяца</span>
+
 								</span>
                     </a>
                 </li>
